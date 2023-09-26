@@ -4,11 +4,17 @@
     font-weight: 400;
     margin: 1rem 0;
    }
+   form{
+      width: 360px;
+   }
    .get-started-form{
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
+   }
+   .get-started-form input{
+      width: 80%;
    }
    .info-container{
     display: flex;
